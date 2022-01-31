@@ -1,0 +1,19 @@
+{
+  "name": "perhsen-muzik-botu",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "perhsen",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "craftrise-api": "^1.1.7",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.3",
+    "wio.db": "^4.0.21"
+  }
+}
